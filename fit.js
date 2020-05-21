@@ -1,7 +1,7 @@
 /*
-#qq群：1034788765
-#github：https://github.com/yukerui/Loon-scripts
-# fit会员课程查看
+fit会员课程解锁by lovexl
+qq群：1034788765
+github：https://github.com/yukerui/Loon-scripts
 ^https:\/\/bea\.sportq\.com\/SFitWeb\/sfit\/getUserBaseInfo
 [mitm] hostname= bean.sportq.com
  */
